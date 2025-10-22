@@ -41,9 +41,7 @@ Yield Migrator is a web application built with React and Vite that leverages the
    pnpm install
    ```
 3. Create a `.env.local` file based on `.env.example` and add your Enso API key:
-   ```
-   VITE_ENSO_API_KEY=your_api_key_here
-   ```
+1d9a84ef-7455-498f-93d8-471a872644b8
 
 ### Development
 
